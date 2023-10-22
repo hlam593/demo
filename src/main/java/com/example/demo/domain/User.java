@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.example.demo.demos.web;
+package com.example.demo.domain;
 
 /**
- * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>
+ * @author lam h
  */
 public class User {
 
